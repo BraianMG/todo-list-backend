@@ -1,4 +1,4 @@
-# __ToDo List__ (Documentation)-
+# __ToDo List__ (Documentation)
 
 - [__ToDo List__ (Documentation)-](#todo-list-documentation-)
   - [__Test it__](#test-it)
