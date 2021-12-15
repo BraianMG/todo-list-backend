@@ -5,6 +5,10 @@
 - Start the app with __npm run dev__
 - Don't forget to __configure your .env files__ from the __.env.example templates__
 
+## __Run tests__
+- Start the __Jest tests__ with __npm run test__ 
+  - I had several problems to configure the tests, __they do not work correctly__
+
 ## __Endpoints__
 - __Users__:
   - __POST__ /api/v1/users/ -> (To create a new user)
